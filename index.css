@@ -1,0 +1,151 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+.custom-container {
+  position: relative;
+  text-align: center;
+}
+
+.custom-heading-1 {
+  position: absolute;
+  top: 200px;
+  left: 250px;
+  font-weight: bold;
+}
+
+.custom-heading-2 {
+  position: absolute;
+  top: 250px;
+  left: 250px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 60px;
+}
+
+.custom-heading-3 {
+  position: absolute;
+  top: 310px;
+  left: 250px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 60px;
+}
+
+.heading-img {
+  position: absolute;
+  top: 450px;
+  left: 250px;
+}
+
+.section-2-lorem {
+  font-weight: 600;
+}
+
+.section-3-heading {
+  position: absolute;
+  top: 1150px;
+  left: 620px;
+}
+
+.location-1 {
+  position: absolute;
+  top: 1300px;
+  left: 200px;
+}
+
+.location-2 {
+  position: absolute;
+  top: 1300px;
+  left: 600px;
+}
+
+.location-3 {
+  position: absolute;
+  top: 1300px;
+  left: 1000px;
+}
+
+.location-4 {
+  position: absolute;
+  top: 1300px;
+  left: 1400px;
+}
+
+.location-5 {
+  position: absolute;
+  top: 1700px;
+  left: 200px;
+}
+
+.location-6 {
+  position: absolute;
+  top: 1700px;
+  left: 600px;
+}
+
+.location-7 {
+  position: absolute;
+  top: 1700px;
+  left: 1000px;
+}
+
+.location-8 {
+  position: absolute;
+  top: 1700px;
+  left: 1400px;
+}
+
+.icons {
+  font-size: 100px;
+  position: absolute;
+  top: 2199px;
+}
+
+.icon-text-1 {
+  position: absolute;
+  top: 2310px;
+  font-weight: bold;
+}
+
+.icon-text-2 {
+  position: absolute;
+  top: 2350px;
+  font-weight: bold;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.bold {
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.back-back {
+  background-color: #242424;
+}
+
+.green {
+  color: #58ab48;
+  font-weight: bold;
+}
+
+.color-white {
+  color: white;
+  font-size: 2rem;
+}
+
+.hover:hover {
+  color: white;
+}
+
+.nav-bold {
+  font-weight: 999;
+}
